@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+
+.hikingBanner {
+  display: flex;
+  flex-direction: row;
+}
+
+.hikingBanner img {
+  border: 3px solid black;
+}
+.hikingBanner div {
+  border: 6px solid lightblue;
+}
+
+/*footer*/
+#navbar {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+  padding: 25px 25px 50px 25px;
+  margin: 0;
+}
+
+#copyRight {
+  text-align: center;
+}
